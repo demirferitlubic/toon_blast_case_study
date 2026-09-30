@@ -2,9 +2,9 @@
 
 ## Overview
 
-This is an independent product case study on **Toon Blast by Peak**.
+This is a case study on **Toon Blast by Peak**.
 
-The purpose of this project is to analyze a real player experience problem, propose a product solution, define the relevant KPIs, and design an experiment to evaluate whether the solution creates measurable value.
+The purpose of this project is to analyze a real player experience problem, propose a product solution, define the relevant primary metrics, supporting metrics, guardrail metrics and design an experiment to evaluate whether the solution creates measurable value.
 
 The analysis focuses on one question:
 
@@ -28,9 +28,7 @@ When a player loses:
 
 **Fail → Retry / Use Resources / Leave Session**
 
-The second flow is particularly interesting from a product perspective.
-
-A failed level is not necessarily a negative experience.
+The second flow is particularly interesting from a product perspective since a failed level is not necessarily a negative experience.
 
 Difficulty creates challenge, and challenge makes progression rewarding.
 
