@@ -57,17 +57,7 @@ Attempt 3 → Fail
 Attempt 4 → ?
 ```
 
-At this point, several behaviors are possible.
-
-The player might:
-
-- retry immediately,
-- use a booster,
-- spend resources,
-- take a break,
-- or leave the session entirely.
-
-Repeated failures may be healthy when the player still believes the level is achievable.
+At this point, several behaviors are possible. The player might retry immediately, use a booster, spend resources, take a break or leave the session entirely. Repeated failures may be healthy when the player still believes the level is achievable.
 
 The problem appears when the player stops thinking:
 
