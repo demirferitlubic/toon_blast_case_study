@@ -28,9 +28,7 @@ When a player loses:
 
 **Fail → Retry / Use Resources / Leave Session**
 
-The second flow is particularly interesting from a product perspective since a failed level is not necessarily a negative experience.
-
-Difficulty creates challenge, and challenge makes progression rewarding.
+The second flow is particularly interesting from a product perspective since a failed level is not necessarily a negative experience. Difficulty creates challenge, and challenge makes progression rewarding.
 
 However, repeated failures can potentially move the player from:
 
